@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>室內設計小知識</title>
+    <style>
+        body {font-family: Arial, sans-serif;}
+        h1 {color: #333;}
+        .content {margin: 0 auto; width: 60%;}
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>歡迎來到室內設計小知識</h1>
+        <h2>裝修小知識</h2>
+        <p>在這裡，我們將分享一些裝修小知識，幫助您打造理想的家。</p>
+        <h3>1. 色彩選擇</h3>
+        <p>色彩對於空間的感覺影響深遠。淺色調可以使空間顯得更大，而深色調則可以創造出舒適和溫馨的氛圍。</p>
+        <h3>2. 空間規劃</h3>
+        <p>合理的空間規劃可以提高生活的便利性。例如，將常用的廚房用具放在易於取用的地方，可以使烹飪變得更加輕鬆。</p>
+        <!-- 您可以在這裡添加更多的裝修小知識 -->
+    </div>
+</body>
+</html>
